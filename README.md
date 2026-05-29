@@ -9,10 +9,7 @@
   Repository dedicated to solving LeetCode problems with clean, documented and optimized solutions.
 </p>
 
----
-
 # Overview
-
 This repository contains my personal solutions to algorithmic and data structure problems from LeetCode.
 
 The main goal is not only solving problems, but also:
@@ -24,10 +21,7 @@ The main goal is not only solving problems, but also:
 * Preparing for technical interviews
 * Building consistency in competitive programming
 
----
-
 # Repository Structure
-
 ```bash
 leetcode-solutions/
 │
@@ -37,13 +31,12 @@ leetcode-solutions/
 │
 ├── medium/
 │   └── add-two-numbers/
+|   └── remove-duplicates-from-sorted-array-II/
 │
 ├── hard/
 │
 └── README.md
 ```
-
----
 
 # Solved Problems
 
@@ -52,13 +45,11 @@ leetcode-solutions/
 | Best Time to Buy and Sell Stock | Easy       | Array, Greedy     | ✔        |
 | Roman to Integer                | Easy       | String, Hash Map  | ✔        |
 | Add Two Numbers                 | Medium     | Linked List, Math | ✔        |
+| Remove Duplicates from Sorted Array II                 | Medium     | Array, Pointers | ✔        |
 
----
 
 # Coding Principles
-
 The repository follows some important software engineering principles:
-
 * Clean and readable code
 * Consistent naming
 * Low-complexity solutions whenever possible
@@ -66,10 +57,7 @@ The repository follows some important software engineering principles:
 * Separation by difficulty and category
 * Incremental improvement of previous solutions
 
----
-
 # Learning Goals
-
 * Arrays
 * Linked Lists
 * Hash Tables
