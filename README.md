@@ -31,7 +31,7 @@ leetcode-solutions/
 │
 ├── medium/
 │   └── add-two-numbers/
-|   └── remove-duplicates-from-sorted-array-II/
+│   └── remove-duplicates-from-sorted-array-II/
 │
 ├── hard/
 │
